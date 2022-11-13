@@ -10,7 +10,6 @@ public class QuestionFive {
         // variable for my result
         Double result;
 
-
         switch (operatorSymbol) {
 
             //subtraction
